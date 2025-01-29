@@ -1,0 +1,12 @@
+.login-container {
+    background: scroll;
+    padding: 20px 30px;
+    border-radius: 8px;
+    width: 100%;
+    
+}
+.login-container div {
+ text-align: center;
+margin-bottom: 20px;
+}
+

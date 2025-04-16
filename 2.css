@@ -1,3 +1,8 @@
+@media (max-width:768px) {
+    section{
+        dirdir
+    }
+}
 .main{
     /* align-content: center; */
     margin-left: 300px;

@@ -1,12 +1,104 @@
-.login-container {
-    background: scroll;
-    padding: 20px 30px;
-    border-radius: 8px;
-    width: 100%;
+.main{
+    /* align-content: center; */
+    margin-left: 300px;
+}
+.h2{
+    margin-left: 170px;
+    font-size: 19px;
+    width: 400px;
+}
+font{
+    color: rgb(13, 13, 252);
+}
+.p1{
+    margin-left: 256px;
+    font-size: 9px;
+    margin-top: 60px;
+    color: rgb(90, 89, 89);
+    margin-bottom: 0px;
+}
+.div1{
+        width: 238px; 
+        height: 109px;
+        /* background-color:red; */
+        /* color: black; */
+        /* font-size: 50px; */
+        text-align: center;
+        /* font-weight: 700;
+        line-height: 100px; */
+        border: 1px solid rgb(33, 32, 32);
+        margin-left: 198px;
+        padding-bottom: 70px; 
+        
+}
+.div2{
+    /* margin-left: 200px; */
+    margin-top: 75px;
+    
     
 }
-.login-container div {
- text-align: center;
-margin-bottom: 20px;
+.div3{
+    /* display: flex; */
+     margin-left: 1px; 
+    margin-right: 38px; 
+    /* margin-top: 20px;  */
+    display: flex;
+    flex-direction: column;
+    
+    
+    
+    
+   
 }
+.p3{
+    padding-right: 2px;
+    margin-bottom: 0px; 
+    font-size: 9px;
+    
+    
 
+}
+.i1{
+    height: 8px;
+    width: 58px;
+}
+.i2{
+    height: 8px;
+    width: 58px;
+}
+.p4{
+    padding-right: 1px;
+    font-size: 9px;
+    margin-right: 15px;
+    margin-top: 1px;
+}
+button{
+    width: 1px;
+    height: 15px;
+    font-size: 10px;
+    padding-right: 15px;  
+    margin-left: 84px; 
+    margin-top: 8px;
+    margin-bottom: 7px;
+}
+.img1{
+    width: 240px; 
+    height: 45px;
+}
+.p5{
+     font-size: 9.5px; 
+     color: rgb(93, 93, 93);
+     margin-top: 0px;
+     margin-left: 244px;
+     
+}
+/* .div4{
+    display: flex;
+    flex-direction: column; 
+} */
+.img2{
+    width: 290px;
+    height: 140px;
+    margin-left: 175px;
+}
+    

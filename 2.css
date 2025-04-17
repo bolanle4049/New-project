@@ -1,6 +1,6 @@
 @media (max-width:768px) {
     section{
-        dirdir
+        
     }
 }
 .main{
@@ -19,7 +19,7 @@ font{
     margin-left: 256px;
     font-size: 9px;
     margin-top: 60px;
-    color: rgb(90, 89, 89);
+    color: rgb(149, 149, 149);
     margin-bottom: 0px;
     width: 400px;
 }
@@ -32,7 +32,7 @@ font{
         text-align: center;
         /* font-weight: 700;
         line-height: 100px; */
-        border: 1px solid rgb(33, 32, 32);
+        border: 1px solid rgb(201, 201, 201);
         margin-left: 198px;
         padding-bottom: 70px; 
         
@@ -94,9 +94,9 @@ button{
 .p5{
      font-size: 9.5px; 
      color: rgb(93, 93, 93);
-     margin-top: 0px;
+     margin-top: 2px;
      margin-left: 244px;
-    width: 500px;
+    width: 700px
      
 }
 /* .div4{
